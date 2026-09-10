@@ -7,3 +7,11 @@ dist/
 coverage/
 supabase/.branches/
 supabase/.temp/
+
+# Material del cliente. NO se publica: este repositorio es público.
+# - brief-demo-casa-alma.md: estrategia interna, cuotas, notas de negociación.
+# - REPORTE NIMVU OFICIAL.xlsx: ventas reales de una marca, con fechas,
+#   importes y números de vaucher.
+# Si el repositorio pasa a privado y hay autorización del cliente, quitar
+# esta regla.
+docs/
